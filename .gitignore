@@ -1,1 +1,3 @@
 node_modules/
+certfiles/
+.DS_store
