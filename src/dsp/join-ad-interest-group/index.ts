@@ -1,8 +1,8 @@
 const interestGroup = {
-    owner: 'https://dsp.paa-tips.com:44303',
-    name: 'paa-tips',
-    biddingLogicUrl: 'https://dsp.paa-tips.com:44303/dsp/bidding-logic-url/index.js',
-    ads: [{ renderUrl: 'https://dsp.paa-tips.com:44303/dsp/creative/index.html' }]
+    owner: 'https://another.geniee.jp',
+    name: 'PAAPIDemo_20240415',
+    biddingLogicUrl: 'https://another.geniee.jp/test/murano/Reproducts/protectedAudienceDemo/dsp/bidding-logic-url/index.js',
+    ads: [{ renderUrl: 'https://another.geniee.jp/test/murano/Reproducts/protectedAudienceDemo/dsp/creative/index.html' }]
 }
 
 // @ts-ignore

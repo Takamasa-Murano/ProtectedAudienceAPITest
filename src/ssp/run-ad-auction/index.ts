@@ -1,8 +1,8 @@
 window.addEventListener('DOMContentLoaded', async (event) => {
     const auctionConfig = {
-        "seller": 'https://ssp.paa-tips.com:44304',
-        "decisionLogicUrl": "https://ssp.paa-tips.com:44304/ssp/decision-logic-url/index.js",
-        "interestGroupBuyers": ["https://dsp.paa-tips.com:44303"],
+        "seller": 'https://another.geniee.jp',
+        "decisionLogicUrl": "https://another.geniee.jp/test/murano/Reproducts/protectedAudienceDemo/ssp/decision-logic-url/index.js",
+        "interestGroupBuyers": ["https://another.geniee.jp"],
         "resolveToConfig": true,
     }
     // @ts-ignore
