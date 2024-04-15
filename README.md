@@ -1,3 +1,3 @@
 [ProtectedAudienceAPI(Fledge)開発始め方ガイド](https://developers.cyberagent.co.jp/blog/archives/42840/)で使われているコードのrepositoryです
 
-参考（パクリ元）: build:prod
+参考（パクリ元）: https://developers.cyberagent.co.jp/blog/archives/42840/
